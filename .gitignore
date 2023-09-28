@@ -1,3 +1,12 @@
+# data
+*.csv
+*.tiff
+*.tif
+*.jpg
+
+# test
+test*.*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
