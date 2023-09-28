@@ -2,7 +2,7 @@
 *.csv
 *.tiff
 *.tif
-*.jpg
+# *.jpg
 
 # test
 test*.*
